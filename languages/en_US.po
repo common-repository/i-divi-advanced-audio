@@ -1,0 +1,160 @@
+# Copyright (C) 2018 Dan Mardis - Howidivit.com
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: I Divi Advanced Audio 1.0.0\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/i-divi-advanced-audio\n"
+"POT-Creation-Date: 2018-05-30 14:56:46+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n1.0.2\n"
+
+#: includes/modules/AudioAdvanced/AudioAdvanced.php:15
+msgid "Audio Advanced"
+msgstr ""
+
+#: includes/modules/AudioAdvanced/AudioAdvanced.php:22
+#: includes/modules/AudioAdvanced/AudioAdvanced.php:160
+msgid "Title"
+msgstr ""
+
+#: includes/modules/AudioAdvanced/AudioAdvanced.php:32
+msgid "Caption"
+msgstr ""
+
+#: includes/modules/AudioAdvanced/AudioAdvanced.php:109
+msgid "Audio Cover Art"
+msgstr ""
+
+#: includes/modules/AudioAdvanced/AudioAdvanced.php:113
+msgid "Audio Content"
+msgstr ""
+
+#: includes/modules/AudioAdvanced/AudioAdvanced.php:117
+msgid "Audio Title"
+msgstr ""
+
+#: includes/modules/AudioAdvanced/AudioAdvanced.php:121
+msgid "Audio Meta"
+msgstr ""
+
+#: includes/modules/AudioAdvanced/AudioAdvanced.php:125
+msgid "Player Buttons"
+msgstr ""
+
+#: includes/modules/AudioAdvanced/AudioAdvanced.php:129
+msgid "Player Timer"
+msgstr ""
+
+#: includes/modules/AudioAdvanced/AudioAdvanced.php:133
+msgid "Player Sliders"
+msgstr ""
+
+#: includes/modules/AudioAdvanced/AudioAdvanced.php:137
+msgid "Player Sliders Current"
+msgstr ""
+
+#: includes/modules/AudioAdvanced/AudioAdvanced.php:146
+msgid "Audio"
+msgstr ""
+
+#: includes/modules/AudioAdvanced/AudioAdvanced.php:150
+msgid "Upload an audio file"
+msgstr ""
+
+#: includes/modules/AudioAdvanced/AudioAdvanced.php:151
+msgid "Choose an Audio file"
+msgstr ""
+
+#: includes/modules/AudioAdvanced/AudioAdvanced.php:152
+msgid "Set As Audio for the module"
+msgstr ""
+
+#: includes/modules/AudioAdvanced/AudioAdvanced.php:153
+msgid ""
+"Define the audio file for use in the module. To remove an audio file from "
+"the module, simply delete the URL from the settings field."
+msgstr ""
+
+#: includes/modules/AudioAdvanced/AudioAdvanced.php:163
+msgid "Define a title."
+msgstr ""
+
+#: includes/modules/AudioAdvanced/AudioAdvanced.php:167
+msgid "Artist Name"
+msgstr ""
+
+#: includes/modules/AudioAdvanced/AudioAdvanced.php:170
+msgid "Define an artist name."
+msgstr ""
+
+#: includes/modules/AudioAdvanced/AudioAdvanced.php:174
+msgid "Album name"
+msgstr ""
+
+#: includes/modules/AudioAdvanced/AudioAdvanced.php:177
+msgid "Define an album name."
+msgstr ""
+
+#: includes/modules/AudioAdvanced/AudioAdvanced.php:181
+msgid "Cover Art Image URL"
+msgstr ""
+
+#: includes/modules/AudioAdvanced/AudioAdvanced.php:184
+msgid "Upload an image"
+msgstr ""
+
+#: includes/modules/AudioAdvanced/AudioAdvanced.php:185
+msgid "Choose an Image"
+msgstr ""
+
+#: includes/modules/AudioAdvanced/AudioAdvanced.php:186
+msgid "Set As Image"
+msgstr ""
+
+#: includes/modules/AudioAdvanced/AudioAdvanced.php:187
+msgid ""
+"Upload your desired image, or type in the URL to the image you would like "
+"to display."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "I Divi Advanced Audio"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.howidivit.com/i-divi-advanced-audio"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "It adds advanced Audio module."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Dan Mardis - Howidivit.com"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.howidivit.com"
+msgstr ""
+
+#: includes/modules/AudioAdvanced/AudioAdvanced.php:241
+msgctxt "Audio Module meta information"
+msgid "by <strong>%1$s</strong>"
+msgstr ""
